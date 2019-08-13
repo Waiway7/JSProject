@@ -23,3 +23,4 @@ Day 3: Creating a sample audio visualization
 Day 4: Styling it
 Day 5: Implementa a different type of audio visualization
 
+![image](https://user-images.githubusercontent.com/49809862/62941202-7e6e7d80-bda3-11e9-8aa4-adf1e725b67a.png)
